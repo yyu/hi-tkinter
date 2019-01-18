@@ -9,7 +9,7 @@
 ## Make MacOS app bundle
 
 ```bash
-    pyinstaller --windowed -i hello.icns hello.py
+pyinstaller --windowed -i hello.icns hello.py
 
-    pyinstaller --windowed -i widgets.icns widgets.py
+pyinstaller --windowed -i widgets.icns widgets.py
 ```
